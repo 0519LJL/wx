@@ -1,0 +1,9 @@
+D:\MyProject\WXManagement\WXManagementUnitTest\obj\Debug\WXManagementUnitTest.csprojResolveAssemblyReference.cache
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagementUnitTest.dll
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagementUnitTest.pdb
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagement.Service.dll
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagement.Service.pdb
+D:\MyProject\WXManagement\WXManagementUnitTest\obj\Debug\WXManagementUnitTest.dll
+D:\MyProject\WXManagement\WXManagementUnitTest\obj\Debug\WXManagementUnitTest.pdb
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagement.CommonUtility.dll
+D:\MyProject\WXManagement\WXManagementUnitTest\bin\Debug\WXManagement.CommonUtility.pdb

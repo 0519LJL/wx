@@ -1,0 +1,5 @@
+D:\MyProject\WXManagement\Service\bin\Debug\Service.dll
+D:\MyProject\WXManagement\Service\bin\Debug\Service.pdb
+D:\MyProject\WXManagement\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\MyProject\WXManagement\Service\obj\Debug\Service.dll
+D:\MyProject\WXManagement\Service\obj\Debug\Service.pdb

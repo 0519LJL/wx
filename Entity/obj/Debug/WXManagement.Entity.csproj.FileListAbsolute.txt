@@ -1,0 +1,4 @@
+D:\MyProject\WXManagement\Entity\bin\Debug\WXManagement.Entity.dll
+D:\MyProject\WXManagement\Entity\bin\Debug\WXManagement.Entity.pdb
+D:\MyProject\WXManagement\Entity\obj\Debug\WXManagement.Entity.dll
+D:\MyProject\WXManagement\Entity\obj\Debug\WXManagement.Entity.pdb

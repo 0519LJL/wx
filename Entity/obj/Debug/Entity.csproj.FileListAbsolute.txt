@@ -1,0 +1,5 @@
+D:\MyProject\WXManagement\Entity\bin\Debug\Entity.dll
+D:\MyProject\WXManagement\Entity\bin\Debug\Entity.pdb
+D:\MyProject\WXManagement\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\MyProject\WXManagement\Entity\obj\Debug\Entity.dll
+D:\MyProject\WXManagement\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,4 @@
+D:\MyProject\WXManagement\Service\bin\Debug\WXManagement.Service.dll
+D:\MyProject\WXManagement\Service\bin\Debug\WXManagement.Service.pdb
+D:\MyProject\WXManagement\Service\obj\Debug\WXManagement.Service.dll
+D:\MyProject\WXManagement\Service\obj\Debug\WXManagement.Service.pdb

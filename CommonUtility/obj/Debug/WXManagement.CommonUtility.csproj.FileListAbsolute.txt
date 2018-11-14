@@ -1,0 +1,14 @@
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\WXManagement.CommonUtility.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\WXManagement.CommonUtility.pdb
+D:\MyProject\WXManagement\CommonUtility\obj\Debug\WXManagement.CommonUtility.dll
+D:\MyProject\WXManagement\CommonUtility\obj\Debug\WXManagement.CommonUtility.pdb
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Net.Http.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Web.Http.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Net.Http.Formatting.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Net.Http.xml
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Web.Http.xml
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\System.Net.Http.Formatting.xml
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\MyProject\WXManagement\CommonUtility\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\MyProject\WXManagement\CommonUtility\obj\Debug\WXManagement.CommonUtility.csprojResolveAssemblyReference.cache
